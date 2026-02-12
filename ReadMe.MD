@@ -3,6 +3,8 @@
 
 A lightweight project manager for SideFX Houdini. Scan, organize, and launch your .hip files from one place.
 
+![ProjectLookingGlassImage.png](ProjectLookingGlassImage.png)
+
 ## Installation
 
 1. Download `Project Looking Glass Installer.exe` from the Installer folder
